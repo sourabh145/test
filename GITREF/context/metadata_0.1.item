@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_wdvKEFOGEeiTodJr-dSWRg" confirmationNeeded="false" name="Default">
   <contextParameter xmi:id="_wdvKEVOGEeiTodJr-dSWRg" comment="" name="metadata_Password" prompt="metadata_Password?" promptNeeded="false" type="id_Password" value="NZNgK6DuncI="/>
-  <contextParameter xmi:id="_wdvKElOGEeiTodJr-dSWRg" comment="" name="metadata_Login" prompt="metadata_Login?" promptNeeded="false" type="id_String" value="root"/>
+  <contextParameter xmi:id="_wdvKElOGEeiTodJr-dSWRg" comment="" name="metadata_Login" prompt="metadata_Login?" promptNeeded="false" type="id_String" value="root123"/>
   <contextParameter xmi:id="_wdvKE1OGEeiTodJr-dSWRg" comment="" name="metadata_Database" prompt="metadata_Database?" promptNeeded="false" type="id_String" value=""/>
   <contextParameter xmi:id="_wdvxIFOGEeiTodJr-dSWRg" comment="" name="metadata_Port" prompt="metadata_Port?" promptNeeded="false" type="id_String" value="3306"/>
   <contextParameter xmi:id="_wdvxIVOGEeiTodJr-dSWRg" comment="" name="metadata_Server" prompt="metadata_Server?" promptNeeded="false" type="id_String" value="localhost"/>
